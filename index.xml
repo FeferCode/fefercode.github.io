@@ -2,31 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FeferCode</title>
-    <link>https://fefercode.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on FeferCode</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 21:24:53 +0100</lastBuildDate>
-    <atom:link href="https://fefercode.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>HelloWorld</title>
-      <link>https://fefercode.github.io/posts/helloworld/</link>
-      <pubDate>Wed, 26 Mar 2025 21:24:53 +0100</pubDate>
-      <guid>https://fefercode.github.io/posts/helloworld/</guid>
-      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Swift&#34; data-lang=&#34;Swift&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;let&lt;/span&gt; hello = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://fefercode.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fefercode.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;about&#34;&gt;ABOUT&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>https://fefercode.github.io/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://fefercode.github.io/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>&lt;h1 id=&#34;projects&#34;&gt;PROJECTS&lt;/h1&gt;</description>
     </item>
   </channel>

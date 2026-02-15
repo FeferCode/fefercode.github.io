@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on FeferCode</title>
-    <link>https://fefercode.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on FeferCode</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Mar 2025 21:24:53 +0100</lastBuildDate>
-    <atom:link href="https://fefercode.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Feb 2026 14:58:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MarkDownCheatSheet</title>
+      <link>http://localhost:1313/posts/markdowncheatsheet/</link>
+      <pubDate>Sun, 15 Feb 2026 14:58:45 +0100</pubDate>
+      <guid>http://localhost:1313/posts/markdowncheatsheet/</guid>
+      <description>&lt;h1 id=&#34;markdown-cheatsheet&#34;&gt;Markdown Cheatsheet&lt;/h1&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# Heading 1&#xA;## Heading 2&#xA;### Heading 3&#xA;#### Heading 4&#xA;##### Heading 5&#xA;###### Heading 6&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;text-formatting&#34;&gt;Text Formatting&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;**bold** or __bold__&#xA;*italic* or _italic_&#xA;***bold italic***&#xA;~~strikethrough~~&#xA;`inline code`&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;lists&#34;&gt;Lists&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- Item 1&#xA;- Item 2&#xA;  - Nested item&#xA;  &#xA;1. First&#xA;2. Second&#xA;3. Third&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;links-and-images&#34;&gt;Links and Images&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;[Link text](https://example.com)&#xA;[Link with title](https://example.com &amp;#34;Title&amp;#34;)&#xA;![Alt text](image.jpg)&#xA;![Alt text](image.jpg &amp;#34;Image title&amp;#34;)&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;```&#xA;code block&#xA;```&#xA;&#xA;```python&#xA;# Python code block&#xA;print(&amp;#34;Hello&amp;#34;)&#xA;```&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;&amp;gt; This is a quote&#xA;&amp;gt; It can span multiple lines&#xA;&amp;gt;&amp;gt; Nested quote&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;horizontal-line&#34;&gt;Horizontal Line&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;---&#xA;or&#xA;***&#xA;or&#xA;___&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;| Header 1 | Header 2 |&#xA;|----------|----------|&#xA;| Cell 1   | Cell 2   |&#xA;| Cell 3   | Cell 4   |&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;escaping-characters&#34;&gt;Escaping Characters&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;\*escaped asterisk\*&#xA;\[escaped bracket\]&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;line-breaks&#34;&gt;Line Breaks&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Line 1  &#xA;(two spaces at end)&#xA;Line 2&#xA;&#xA;(or blank line between paragraphs)&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;task-lists&#34;&gt;Task Lists&lt;/h2&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;- [x] Completed task&#xA;- [ ] Incomplete task&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
     <item>
       <title>HelloWorld</title>
-      <link>https://fefercode.github.io/posts/helloworld/</link>
+      <link>http://localhost:1313/posts/helloworld/</link>
       <pubDate>Wed, 26 Mar 2025 21:24:53 +0100</pubDate>
-      <guid>https://fefercode.github.io/posts/helloworld/</guid>
+      <guid>http://localhost:1313/posts/helloworld/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-Swift&#34; data-lang=&#34;Swift&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;let&lt;/span&gt; hello = &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
   </channel>
